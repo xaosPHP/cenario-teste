@@ -1,0 +1,12 @@
+{
+  "name": "ReactChallenge",
+  "version": "1.0.0",
+  "description": "Teste de conhecimento em react para Cenario Capital",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaosPHP/cenario-teste.git"
+  },
+  "author": "Pedro Henrique Piva",
+  "license": "MIT"
+}
